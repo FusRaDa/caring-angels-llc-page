@@ -1,0 +1,15 @@
+Caring Angels LLC static frontend URL placeholders
+
+URL1  = logo-transparent-only.png
+URL2  = stock1.jpg
+URL3  = stock2.jpg
+URL4  = stock3.jpg
+URL5  = Solid State background image (bg.jpg) -- referenced inside assets/css/main.css
+URL6  = Articles of Organization document
+URL7  = Contact Information document
+URL8  = Privacy Policy document
+URL9  = Terms & Conditions document
+URL10 = Copyright Notice document
+URL11 = Disclaimer document
+
+Replace the literal URL# strings with your public cloud-bucket URLs.
